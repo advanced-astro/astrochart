@@ -26,3 +26,7 @@ Is your project using? Please [comment here](https://github.com/AstroDraw/AstroC
 A nice way to support is sharing this project with other people.
 
 Also, if you are a company consider sponsoring the project or [buying me a coffee](https://ko-fi.com/afucher)
+
+## Acknowledgement
+
+- [GitHub Repository Structure Best Practices](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405)
